@@ -1,0 +1,2 @@
+scikit-learb==1.2.2
+numpy
