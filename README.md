@@ -6,4 +6,4 @@ streamlit run app.py
 
 
 # Project Sample
-Likn : https://prediction-of-house.streamlit.app/
+Likn : https://prediction-of-house-price.streamlit.app/
